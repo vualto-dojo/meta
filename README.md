@@ -1,5 +1,9 @@
 # Meta
 
+Open discussion related to the dojo's
+
+ref. http://codingdojo.org/WhatIsCodingDojo/
+
 ## Next (proposition):
 
 - [ ] Create Classes an use them in the store… @cajones (what was your idea around  this topic?)
