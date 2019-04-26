@@ -28,6 +28,9 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
 
 ## Previous:
 
+![Alt Text](https://media.giphy.com/media/GaAvKZvMV0GHu/giphy.gif)
+
+
 - [x] Exploring Vuejs templating and component compostion
  - Refs:
    - https://vuejs.org/
