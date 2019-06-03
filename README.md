@@ -46,3 +46,8 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
      - https://vuex.vuejs.org/
    - Result:
      - https://github.com/vualto-dojo/vuejs-vuex-exploration
+     
+- [x] Refesh basics with vuejs
+
+  - Result:
+    - https://github.com/vualto-dojo/vue-1
