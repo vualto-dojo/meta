@@ -10,6 +10,11 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
 
 ## Ideas:
 
+ - Explore AWS machine learning
+ 
+   Refs:
+     - https://console.aws.amazon.com/sagemaker
+
  - Component testing:
    - Unit testing
    - e2e testing
