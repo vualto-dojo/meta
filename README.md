@@ -35,6 +35,11 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
 
 ![Alt Text](https://media.giphy.com/media/GaAvKZvMV0GHu/giphy.gif)
 
+- [x] Exploring graphql
+  - https://github.com/vualto-dojo/graphql-exploration/
+  - Refs:
+    - https://www.howtographql.com/
+    - https://graphql.org/
 
 - [x] Exploring Vuejs templating and component compostion
  - Refs:
