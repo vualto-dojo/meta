@@ -40,6 +40,7 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
   - Refs:
     - https://www.howtographql.com/
     - https://graphql.org/
+    - https://github.com/sogko/graphql-shorthand-notation-cheat-sheet
 
 - [x] Exploring Vuejs templating and component compostion
  - Refs:
