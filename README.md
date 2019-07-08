@@ -48,8 +48,8 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
     - https://github.com/sogko/graphql-shorthand-notation-cheat-sheet
 
 - [x] Exploring Vuejs templating and component compostion
- - Refs:
-   - https://vuejs.org/
+  - Refs:
+    - https://vuejs.org/
 
 - [x] Explore spa routing through VueJs > VueRouter
 
