@@ -10,6 +10,11 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
 
 ## Ideas:
 
+ - Kata and/or exploration Functional programming patterns/techiniques in C#
+   - Refs:
+     - https://github.com/louthy/language-ext
+     - https://github.com/cajones/Functional.Datatypes
+
  - Explore AWS machine learning
  
    Refs:
