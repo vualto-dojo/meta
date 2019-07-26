@@ -3,6 +3,7 @@
 Open discussion related to the dojo's
 
 ref. http://codingdojo.org/WhatIsCodingDojo/
+ref. https://mobprogramming.org/
 
 ## Next (proposition):
 
