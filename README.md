@@ -6,7 +6,9 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
 
 ## Next (proposition):
 
-- [ ] Create Classes an use them in the store… @cajones (what was your idea around  this topic?)
+- [ ] https://www.codingame.com/start
+- [ ] https://www.katacoda.com/
+- [ ] https://www.codewars.com/
 
 ## Ideas:
 
@@ -39,6 +41,9 @@ ref. http://codingdojo.org/WhatIsCodingDojo/
 ## Previous:
 
 ![Alt Text](https://media.giphy.com/media/GaAvKZvMV0GHu/giphy.gif)
+
+- [x] Introduction to asp.net core api
+  - https://github.com/vualto-dojo/dotnet-basic-api
 
 - [x] Introduction to vuejs
    - https://github.com/vualto-dojo/vue-0
