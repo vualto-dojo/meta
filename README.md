@@ -43,6 +43,8 @@ ref. https://mobprogramming.org/
 
 ![Alt Text](https://media.giphy.com/media/GaAvKZvMV0GHu/giphy.gif)
 
+- [x] Start a imdb fake project based with a .net core api and a vuejs base frontend
+
 - [x] Introduction to asp.net core api
   - https://github.com/vualto-dojo/dotnet-basic-api
 
